@@ -15,7 +15,7 @@
            sync-j="4"
            sync-c="true" />
 
-  <project path="manifest" name="toolchain_manifest" remote="sm" revision="master" />
+  <project path="manifest" name="Cl3Kener/sm-manifest" remote="gh" revision="master" />
   <project path="avr-libc" name="avr-libc" />
   <project path="benchmark" name="benchmark" />
   <project path="binutils/binutils-gnu" name="binutils-gdb" remote="gnu-bin-gdb" revision="binutils-2_24-branch" />
