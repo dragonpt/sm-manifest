@@ -6,6 +6,8 @@
            review="https://android-review.googlesource.com/" />
   <remote  name="sm"
            fetch="https://github.com/SaberMod/" />
+  <remote  name="gh"
+           fetch="https://github.com/" />
   <remote  name="gnu-bin-gdb"
            fetch="git://sourceware.org/git/" />
   <default revision="master"
@@ -17,7 +19,7 @@
   <project path="avr-libc" name="avr-libc" />
   <project path="benchmark" name="benchmark" />
   <project path="binutils/binutils-gnu" name="binutils-gdb" remote="gnu-bin-gdb" revision="binutils-2_24-branch" />
-  <project path="build" name="toolchain_build" remote="sm" revision="master" />
+  <project path="build" name="Cl3Kener/sm-build" remote="gh" revision="master" />
   <project path="ccache" name="ccache" />
   <project path="clang" name="clang" />
   <project path="cloog" name="cloog" />
