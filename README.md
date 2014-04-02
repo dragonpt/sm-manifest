@@ -1,7 +1,9 @@
-SaberMod Unofficial Manifest
+UBER SaberMod Manifest
 ===========
 
-I'm trying to make it easier for folks to build SaberMod toolchains.
+I'm trying to make it easier for folks to build SaberMod toolchains. This is not official.  If you want go over to SaberMod and use these same principles you can learn here to build the real deal.
+
+Anyhow, this is a simple process (well at least for you since you don't have to write scripts to do this)
 
 All you have to do is run:
 
